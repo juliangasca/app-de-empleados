@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 100px;
+  background-color: #cec5c7;
+  color: #0d0c0c;
+  background-image: url('fondo.png');
+  background-size: cover;
+  background-position: center;
+}
+
+h1, h2{
+  color: #2f11c5;
+  text-align:center;
+  
+} 
+input[type="nombre"],
+input[type="edad"],
+input[type="apellido"],
+input[type="puesto"],
+input[type="email"],
+input[type="telefono"],
+
+}
+ form {
+   margin-bottom: 23px;
+ }
+.card {
+  border: 28px solid #121212;
+  padding: 10px;
+  margin-bottom: 16px;
+  background-image: url('informacion.png') ;
+  background-size:cover;
+   background-position:  center ;
+  
+  
+}
+ button{
+   background-color: #f8eded;
+    color: #100f0f;
+    padding: 5px 10px;
+    text-align: center;
+ }
